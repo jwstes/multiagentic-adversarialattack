@@ -1,0 +1,25 @@
+# Ignore model weights
+.models/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Python caches/build
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Virtual envs
+venv/
+.venv/
+env/
+.env/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
