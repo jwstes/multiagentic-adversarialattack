@@ -124,7 +124,7 @@ imagePath = "D:/AADD-Dataset/lq/img_0003.png"
 
 
 
-
+# Elastic Net Attack Example
 # orig, noise, adv = elastic_net_attack(
 #         model=resnet50_Model,
 #         image=imagePath,
