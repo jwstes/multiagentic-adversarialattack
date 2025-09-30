@@ -3,6 +3,7 @@
 *.pt
 *.ckpt
 *.onnx
+*.npy
 
 # Python caches/build
 __pycache__/
@@ -22,3 +23,6 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Images
+*.png
